@@ -1,0 +1,13 @@
+stylegan2_pytorch
+fire
+opencv-python
+scikit-image
+scikit-learn
+einops
+kornia
+vector_quantize_pytorch
+matplotlib
+timm
+aim
+tensorboardX
+
