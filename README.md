@@ -2,9 +2,9 @@
 <p align="center">
 
   <h1 align="center">Face-image-deblurring-with-feature-correction-and-fusion</h1>
-<!--   <div align="center">
-    <img src="DragGAN.gif", width="600">
-  </div> -->
+  <div align="center">
+    <img src="video.gif", width="600">
+  </div>
 </p>
 
 ## Our Deblurred Results
