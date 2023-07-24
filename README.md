@@ -8,7 +8,7 @@
 </p>
 
 ## Our Deblurred Results
-[Our Deblurred Results](https://drive.google.com/file/d/1MR2ajIjOHs2sbjkihYtLaosjgoLa-mDu/view?usp=sharing)
+We put the full results of the test set we showed in the paper in a zip file. [Deblurred Results](https://drive.google.com/file/d/1MR2ajIjOHs2sbjkihYtLaosjgoLa-mDu/view?usp=sharing)
 
 ## Our Demo(3.72G)
 We now provide a set of **user-friendly test procedures** and **test sets** used for experiments,
