@@ -8,7 +8,7 @@
 </p>
 
 ## :bookmark: Our Deblurred Results
-We put the full results of the test set we showed in the paper in a zip file. [Deblurred Results](https://drive.google.com/file/d/1MR2ajIjOHs2sbjkihYtLaosjgoLa-mDu/view?usp=sharing)
+We put the full results of the test set showed in the paper in a zip file. [Deblurred Results](https://drive.google.com/file/d/1MR2ajIjOHs2sbjkihYtLaosjgoLa-mDu/view?usp=sharing)
 
 ## :whale: Our Demo(3.72G)
 We now provide a set of **user-friendly test procedures** and **test sets** used for experiments,
@@ -42,6 +42,6 @@ python val_train.py
 
 ## Acknowledgement
 
-Part of the code is borrowed from [Simple StyleGan2](https://github.com/lucidrains/stylegan2-pytorch). Thanks to the [vgg](https://arxiv.org/abs/1409.1556)  teamfor the pre-training weights!
+Part of the code is borrowed from [Simple StyleGan2](https://github.com/lucidrains/stylegan2-pytorch). Thanks to the [vgg](https://arxiv.org/abs/1409.1556)  team for the pre-training weights!
 
 (cheers to the community as well)
