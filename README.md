@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 
 ## Download pre-trained weights
-Download [vgg13]() pre-training weights and [model]() weights.Then put them in the models folder.
+Download [vgg13](https://drive.google.com/file/d/144QennVnPBDlBenTWV-NVob6_sxEuHQ5/view?usp=sharing) pre-training weights and [model](https://drive.google.com/drive/folders/1dT3tMIWjPTJaqhiHePcIz-W1NhPSgMY7?usp=drive_link) weights.Then put them in the models folder.
 
 ## RUN code
 
