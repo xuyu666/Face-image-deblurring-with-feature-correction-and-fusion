@@ -16,3 +16,9 @@ Download [vgg13]() pre-training weights and [model]() weights.Then put them in t
 
 ## RUN code
 
+
+## Acknowledgement
+
+This code is developed based on [StyleGAN2](https://arxiv.org/abs/1912.04958). Part of the code is borrowed from [Simple StyleGan2 for Pytorch]([https://github.com/stylegan-human/StyleGAN-Human](https://github.com/lucidrains/stylegan2-pytorch)https://github.com/lucidrains/stylegan2-pytorch).
+
+(cheers to the community as well)
