@@ -12,9 +12,15 @@ pip install -r requirements.txt
 ```
 
 ## Download pre-trained weights
-Download [vgg13](https://drive.google.com/file/d/144QennVnPBDlBenTWV-NVob6_sxEuHQ5/view?usp=sharing) pre-training weights and [model](https://drive.google.com/drive/folders/1dT3tMIWjPTJaqhiHePcIz-W1NhPSgMY7?usp=drive_link) weights.Then put them in the models folder.
+Download [vgg13](https://drive.google.com/file/d/144QennVnPBDlBenTWV-NVob6_sxEuHQ5/view?usp=sharing) pre-training weights and [model](https://drive.google.com/drive/folders/1dT3tMIWjPTJaqhiHePcIz-W1NhPSgMY7?usp=drive_link) weights.
+Then put them in the models folder.The hierarchy is as follows：
+
+![image](https://github.com/xuyu666/Face-image-deblurring-with-feature-correction-and-fusion/assets/49869475/1b553952-1a3f-453c-90d7-5ca3db7ce06c)
 
 ## RUN code
+```
+python val_train.py
+```
 
 
 ## Acknowledgement
